@@ -1,0 +1,4 @@
+[[package]]
+name = "rustc-perf-regression"
+version = "0.1.0"
+
